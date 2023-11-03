@@ -19,5 +19,5 @@ document.addEventListener('mousemove', (event) => {
   magnifier.style.left = event.clientX - 125 + 'px';
   magnifier.style.top = event.clientY - 125 + 'px';
 
-  magnifier.style.backgroundPosition = `-${event.clientX}px -${event.clientY}px`; 
+  magnifier.style.backgroundPosition = `-${event.clientX*1.2}px -${event.clientY*1.1}px`; 
 });
