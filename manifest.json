@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "돋보기 확장 프로그램",
+    "name": "돋보기",
   "version": "0.1",
   "description": "웹 페이지에서 돋보기를 사용할 수 있습니다.",
     "action": {
