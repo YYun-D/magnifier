@@ -2,4 +2,4 @@
 
 현재 사이트의 화면을 돋보기를 사용하여 확대해서 볼 수 있는 크롬 확장프로그램입니다.
 
-![스크린샷 2023-11-06 234441_1](https://github.com/YYun-D/magnifier/assets/85883811/ed503cc2-3c74-48bf-bc19-82652ae1223e)
+![스크린샷 2023-11-03 185855_1](https://github.com/YYun-D/magnifier/assets/85883811/d9ff2683-077c-44bf-aae0-ed8a1e3b249a)
